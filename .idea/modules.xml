@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyImageLoad.iml" filepath="$PROJECT_DIR$/MyImageLoad.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfresco/myfresco.iml" filepath="$PROJECT_DIR$/myfresco/myfresco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myglide/myglide.iml" filepath="$PROJECT_DIR$/myglide/myglide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myphotoview/myphotoview.iml" filepath="$PROJECT_DIR$/myphotoview/myphotoview.iml" />
       <module fileurl="file://$PROJECT_DIR$/mypicasso/mypicasso.iml" filepath="$PROJECT_DIR$/mypicasso/mypicasso.iml" />
     </modules>
   </component>
