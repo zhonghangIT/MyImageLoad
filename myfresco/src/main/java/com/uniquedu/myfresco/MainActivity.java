@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
         DraweeController animatedGifController = Fresco.newDraweeControllerBuilder()
                 .setAutoPlayAnimations(true)
-                .setUri(Uri.parse("https://s3.amazonaws.com/giphygifs/media/4aBQ9oNjgEQ2k/giphy.gif"))
+                .setUri(Uri.parse("http://img.huofar.com/data/jiankangrenwu/shizi.gif"))
                 .build();
         mAnimatedGifView.setController(animatedGifController);
 
